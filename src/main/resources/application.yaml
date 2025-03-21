@@ -1,0 +1,5 @@
+quarkus:
+  package:
+    jar:
+      add-runner-suffix: false
+      type: uber-jar
